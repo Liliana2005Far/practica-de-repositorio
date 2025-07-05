@@ -145,7 +145,7 @@ def main():
             print("Gracias por usar el sistema.")
             break
         else:
-            print("Opción inválida. Intente nuevamente.")
+            print("RROR .")
 
 main()
  
