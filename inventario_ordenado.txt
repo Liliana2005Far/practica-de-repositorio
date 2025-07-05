@@ -1,0 +1,5 @@
+M001,Fideo lazo pequeño,0.7,94
+L001,Fabuloso desinfectante,0.75,45
+L123,morocho,1.4,100
+L004,Aceite Palma de Oro,2.0,37
+L012,Atun Real,2.6,24
