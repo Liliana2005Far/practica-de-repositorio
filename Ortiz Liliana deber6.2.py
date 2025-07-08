@@ -145,7 +145,7 @@ def main():
             print("Gracias por usar el sistema.")
             break
         else:
-            print("RROR .")
+            print("hdygdcsjhaxsb .")
 
 main()
  
