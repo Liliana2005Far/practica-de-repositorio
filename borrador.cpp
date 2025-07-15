@@ -16,7 +16,7 @@ int main() {
             cout << "Acceso concedido!" << endl;
             break;
         } else {
-            cout << "Password incorrecto." << endl;
+            cout << "ERROR Password incorrecto." << endl;
             intentos++;
         }
     }
