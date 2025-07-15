@@ -13,7 +13,7 @@ int main() {
         cin >> intento;
 
         if (intento == passwordCorrecto) {
-            cout << "Acceso concedido!" << endl;
+            cout << "CORRECTO Acceso concedido!" << endl;
             break;
         } else {
             cout << "ERROR Password incorrecto." << endl;
